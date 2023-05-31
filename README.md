@@ -1,2 +1,1 @@
-Formulário com validação de CPF
-formulario com validacao de cpf com banco de dados mysql
+Formulario com validacao de CPF e banco de dados mysql
